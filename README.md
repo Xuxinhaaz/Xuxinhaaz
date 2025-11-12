@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
-
 ### Hi, I'm Caio Martins!
 
 I'm a last year web developer undergraduate at IFPR - Reference center at Biopark.
